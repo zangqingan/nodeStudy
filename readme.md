@@ -107,3 +107,5 @@ module.exports才是module模块的真正接口，而exports可以理解为它�
 #### 4 第三方模块
 &emsp;&emsp;nodemon自动检查文件修改并重启服务，安装 npm install nodemon --save-dev-g。
 &emsp;&emsp;moment 日期处理模块，
+
+#### 5 按模块学习
