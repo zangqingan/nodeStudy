@@ -1,0 +1,12 @@
+{
+  "name": "nodestudy",
+  "version": "1.0.0",
+  "description": "个人学习用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"echo ok"
+  },
+  "author": "zangqingan",
+  "license": "ISC"
+}
