@@ -5,8 +5,19 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"echo ok"
+    "dev": "echo ok"
   },
   "author": "zangqingan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zangqingan/nodeStudy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zangqingan/nodeStudy/issues"
+  },
+  "homepage": "https://github.com/zangqingan/nodeStudy#readme",
+  "dependencies": {
+    "mongoose": "^5.8.3"
+  }
 }
