@@ -1,6 +1,6 @@
 /**
  * url 模块用于处理与解析URL。常与querystring,path等模块一起使用。
- * 
+ * 跟原生js的url接口基本一样
  * 
  */
 // 1 引入
